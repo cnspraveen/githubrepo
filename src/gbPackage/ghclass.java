@@ -9,6 +9,7 @@ public class ghclass {
 	{
 		System.out.println("gh class");
 		System.out.println("gh h r u?");
+		System.out.println("gh is fine?");
 
 	}
 
