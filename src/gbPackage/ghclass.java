@@ -8,6 +8,7 @@ public class ghclass {
 	public static void main(String[] args) 
 	{
 		System.out.println("gh class");
+		System.out.println("gh h r u?");
 
 	}
 
